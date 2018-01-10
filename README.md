@@ -5,14 +5,9 @@
     <title>BamseMoms | Norway - RascoBots</title>
   </head>
   <body>
+    
     <style>
       
-      body, html{
-  background-color: #666;
-  margin: 0;
-  padding: 0;
-}
-
 /* Main thing */
 .Header{
   padding-top: 100px;
@@ -164,7 +159,7 @@ footer p{
     background-color: #b5b5b5;
   }
 
-      </style>
+  </style>
 
 <div class="Header">
  <div class="h1">
