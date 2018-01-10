@@ -4,7 +4,17 @@
     <meta charset="utf-8">
   </head>
   <body>
- 
+ <style>
+  p{
+  font-family: sans-serif;
+  font-size: 30px;
+  padding-top: 100px;
+  color: #FFF;
+  text-align: center;
+  text-decoration: none;
+}
+   </style>
+   
 <div class="Header">
  <div class="h1">
 <h1> BAMSEMOMS </h1>
