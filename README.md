@@ -10,7 +10,7 @@
 <h1> BAMSEMOMS </h1>
 <h1> RascoBots </h1>
    <h1> NORWEGIAN ONLY BOT <h1>
-  <h1><a href="https://BamseMoms.Github.io">More info about Rasco and RascoMusikk</a>
+     <h1><a href="https://BamseMoms.Github.io"> More info about Rasco and RascoMusikk</a></h1>
 </div>
 <h2>Invite Rasco And RascoMusic</h2>
 
