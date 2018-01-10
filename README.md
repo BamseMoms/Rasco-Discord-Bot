@@ -9,17 +9,14 @@
  <div class="h1">
 <h1> BAMSEMOMS </h1>
 <h1> RascoBots </h1>
+   <h1> NORWEGIAN ONLY BOT <h1>
+  <h1><a href="https://BamseMoms.Github.io">More info about Rasco and RascoMusikk</a>
 </div>
-
-
-  </div>
 <h2>Invite Rasco And RascoMusic</h2>
 
-
 <p><a href="https://discordapp.com/oauth2/authorize?client_id=389514877288448000&scope=bot&permissions=2146958591">RascoBOT</a></p>
-<p><a href="https://discordapp.com/oauth2/authorize?client_id=394076045869056001&scope=bot&permissions=2146958591">RascoMusikkBOT</a></p>
-
-
+<p><a href="https://discordapp.com/oauth2/authorize?client_id=394076045869056001&scope=bot&permissions=2146958591">RascoMusikkBOT</a>
+  
 <div class="container">
 <h2>Why Rasco?</h2>
 <hr width="7%">
