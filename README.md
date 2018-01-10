@@ -4,28 +4,18 @@
     <meta charset="utf-8">
   </head>
   <body>
- <style>
-  p{
-  font-family: sans-serif;
-  font-size: 30px;
-  padding-top: 100px;
-  color: #FFF;
-  text-align: center;
-  text-decoration: none;
-}
-   </style>
-   
+    
 <div class="Header">
  <div class="h1">
 <h1> BAMSEMOMS </h1>
 <h1> RascoBots </h1>
    <h1> NORWEGIAN ONLY BOT <h1>
-     <p><a href="https://BamseMoms.Github.io"> More info about Rasco and RascoMusikk </a></p>
+     <p><a href="https://BamseMoms.Github.io"> More info about Rasco and RascoMusikk on BamseMoms.Github.io</a></p>
 </div>
 <h2>Invite Rasco And RascoMusic</h2>
 
 <p><a href="https://discordapp.com/oauth2/authorize?client_id=389514877288448000&scope=bot&permissions=2146958591">RascoBOT</a></p>
-<p><a href="https://discordapp.com/oauth2/authorize?client_id=394076045869056001&scope=bot&permissions=2146958591">RascoMusikkBOT</a></p>
+<p><a href="https://discordapp.com/oauth2/authorize?client_id=394076045869056001&scope=bot&permissions=2146958591">RascoMusikkBOT</a</p>
   
 <div class="container">
 <h2>Why Rasco?</h2>
