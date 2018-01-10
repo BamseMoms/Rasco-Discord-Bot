@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>BamseMoms | Norway - RascoBots</title>
   </head>
   <body>
  
@@ -11,7 +10,7 @@
 <h1> BAMSEMOMS </h1>
 <h1> RascoBots </h1>
 </div>
-  </div>
+
 
   </div>
 <h2>Invite Rasco And RascoMusic</h2>
