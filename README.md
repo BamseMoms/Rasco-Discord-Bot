@@ -13,15 +13,6 @@
 </div>
   </div>
 
-  <div class="bg-line">
-<p9>.</p9>
-  </div>
-
-<div class="navigation">
-<div id="nav">
-      <li><a href="../index.html">Home</a></li>
-      <li><a href="../page/rascobots.html">RascoBots</a></li>
-</div>
   </div>
 <h2>Invite Rasco And RascoMusic</h2>
 
